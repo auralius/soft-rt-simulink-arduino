@@ -21,5 +21,14 @@ Next, run the provided MATLAB Simulink file. A Simulink file named: __Template10
 
 *Figure 3: Jitter result from jitter_test_result.m showing jitter of less than one percent.*
 
+-----------------------
 
-manurunga@yandex.com
+![alt text](https://github.com/auralius/soft-rt-simulink-arduino/blob/master/figures/fig4.png?raw=true)
+
+*Figure 4: For Windows user, use the Task Manager to increase MATLAB prioriy.*
+
+-----------------------
+
+Contact:
+
+manurung.@yandex.com
